@@ -25,15 +25,23 @@ Here's the Syllabus and covered topics for you. And i will post the anouncement 
 COURSE SCHEDULE
 
 READING 
+
 8/17 9am-12pm  READING I      Intro to the 4 types of the reading passages 
+
 8/19 9am-12pm  READING II     Strategies and tips for coquring the reading problems 
+
 8/21 9am-12pm  READING III    More Strategies and topics on the specific passage type 
 
 SCIENCE 
+
 8/26 9am-12pm  SCIENCE I      Intro to the 3 topics of the science section 
+
 8/27 9am-12pm  SCIENCE II     Strategies and tips for coquring the Science problems/especially in conflict view points 
 
 MATH 
+
 8/22 9am-12pm  MATH I         General test content 
+
 8/29 9am-12pm  MATH II        Matrices, probability, combinatorics and topics that do not cover in local high school math 
 
+Have Fun And Happy Learning.  
