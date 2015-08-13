@@ -3,9 +3,13 @@
 Introduction of ACT  8/17 - 8/29 
 
 Instructor: Mr. Eric Tian 
+
 Office hour: TBD or by appointment 
+
 Email: yuant7@uw.edu
+
 Wechat: EricTian_7
+
 Cell: 18916065515 
 
 Welcome to the introduction of ACT course. I'm your instructor Eric.  Here's some my background might intrigues you. I graduated from University of Washington, Seattle with a Bachelor of Science in Biologicial science with a minor in Applied Math and another minor in Music - becuase i like classical music and me, myself play classical guitar. I was, and still, yes, a member of Seattle Classical Guitar Society and played dual with our department chair Professor David Baker who is one of the best Biochemist in this wrold i believe. He is real popular and on the science news evereywhere. I also have a master degree in bioinformatics from Northeastern University. Prior to relocate by to Shanghai, I was a research bioinformatics scientist at Institute for Systems Biology, Seattle. Besides research and classical music, i like outdoor sports: hiking, kayaking, camping and snow-boarding. Yeah, unfortunately, there are not too many this kind of activities here in China. 
