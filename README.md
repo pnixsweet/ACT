@@ -44,4 +44,4 @@ MATH
 
 8/29 9am-12pm  MATH II        Matrices, probability, combinatorics and topics that do not cover in local high school math 
 
-Have Fun And Happy Learning.  
+Have Fun And Happy Learning.    ^_^ 
