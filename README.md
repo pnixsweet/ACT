@@ -1,6 +1,6 @@
 # ACT
 
-Introduction of ACT  8/17 - 8/29 
+**Introduction of ACT  8/17 - 8/29**
 
 Instructor: Mr. Eric Tian 
 
@@ -22,7 +22,7 @@ Do make sure you would finish your assignment on time and bring questions and th
 
 Here's the Syllabus and covered topics for you. And i will post the anouncement and daily assignment on the course Wiki.   
 
-COURSE SCHEDULE
+#COURSE SCHEDULE
 
 READING 
 
@@ -46,7 +46,7 @@ MATH
 
 8/29 9am-12pm  MATH II        Matrices, probability, combinatorics and topics that do not cover in local high school math 
 
-REFERENCE BOOK
+#REFERENCE BOOK
 
 ACT Elite 36: Elite Prep for Advanced Students 
 
